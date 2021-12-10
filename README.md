@@ -1,4 +1,5 @@
 # CS4310-Project7-Race-Conditions
+name: Zicong Liu
 
 1 - Python dependencies:
 
@@ -25,9 +26,10 @@ python ass2.py
 The program will always run until you enter ctrl-c.
 
 3 - Video Link: 
+https://youtu.be/NAdVICcOf6A
 
-Assignment 1 : 0 - 1:08
+Assignment 1 : 0 - 20s
 
-Race Condition : 1:08
+Race Condition : 16s
 
-Assignment 2 : 1:20 - 2:22
+Assignment 2 : 20 - 39
